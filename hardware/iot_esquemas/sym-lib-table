@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name wat-rescue)(type Legacy)(uri ${KIPRJMOD}/wat-rescue.lib)(options "")(descr ""))
+  (lib (name recom-rd)(type Legacy)(uri /home/onsar/git/onsar/ecopower_hw_v2/hardware/oscar_libreria.pretty/recom-rd.lib)(options "")(descr ""))
+  (lib (name RO-1224S)(type Legacy)(uri /home/onsar/git/onsar/ecopower_hw_v2/hardware/oscar_libreria.pretty/RO-1224S.lib)(options "")(descr ""))
+  (lib (name mp-1584)(type Legacy)(uri /home/onsar/git/onsar/ecopower_hw_v2/hardware/oscar_libreria.pretty/mp-1584.lib)(options "")(descr ""))
+  (lib (name nano)(type Legacy)(uri /home/onsar/git/onsar/ecopower_hw_v2/hardware/oscar_libreria.pretty/nano.lib)(options "")(descr ""))
+)

@@ -1,0 +1,464 @@
+Información: Comprobando la huella del símbolo de la red "R15:/5FFCF40F:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "C9:/5FF955E2:eco_power_v2:C_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "R1:/5FFB1A2C:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "C10:/5FFCF401:eco_power_v2:C_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "R12:/5FFD79E8:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "C11:/5FFD4082:eco_power_v2:C_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "C12:/5FFD40B3:eco_power_v2:C_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "R13:/5FFD7A19:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "C13:/5FFD79D3:eco_power_v2:C_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "U1:/5D4E51E2:eco_power_v2:arduino_nano".
+
+Información: Comprobando la huella del símbolo de la red "R14:/5FF955F0:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "C14:/5FFD7A04:eco_power_v2:C_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "J5:/601390B1:TerminalBlock:TerminalBlock_bornier-6_P5.08mm".
+
+Información: Comprobando la huella del símbolo de la red "R23:/5FFEF008:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "C15:/5FFEEFC9:eco_power_v2:C_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "P1:/5FF18B83:eco_power_v2:TerminalBlock_bornier-2_P5.08mm".
+
+Información: Comprobando la huella del símbolo de la red "C16:/5FFEEFFA:eco_power_v2:C_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "R22:/5FFEEFD7:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "D1:/5D4E44AF:eco_power_v2:D_2114".
+
+Información: Comprobando la huella del símbolo de la red "J1:/5D4CBA5C:eco_power_v2:Pin_Header_Straight_2x05_Pitch2.54mm_onsar".
+
+Información: Comprobando la huella del símbolo de la red "R21:/5FFEF00F:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "J4:/6011E7C7:TerminalBlock:TerminalBlock_bornier-6_P5.08mm".
+
+Información: Comprobando la huella del símbolo de la red "R16:/5FFD4090:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "R20:/5FFEEFDE:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "J3:/60139D5D:TerminalBlock:TerminalBlock_bornier-3_P5.08mm".
+
+Información: Comprobando la huella del símbolo de la red "R19:/5FFD7A12:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "R17:/5FFD40C1:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "J2:/60138EF1:TerminalBlock:TerminalBlock_bornier-6_P5.08mm".
+
+Información: Comprobando la huella del símbolo de la red "R18:/5FFD79E1:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "R2:/5FFFA8B2:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "C3:/5FFFA89D:eco_power_v2:C_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "C4:/5FFFF00A:eco_power_v2:C_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "C5:/6004F39B:eco_power_v2:C_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "R9:/5FFCF416:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "R5:/6004F3D3:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "C6:/6004F3BE:eco_power_v2:C_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "R6:/6004F3F6:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "R10:/5FFD4097:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "C2:/5FFB1A03:eco_power_v2:C_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "R4:/6004F3B0:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "C7:/6004F3E1:eco_power_v2:C_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "R11:/5FFD40C8:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "R8:/5FF955F7:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "C1:/5FF18B84:eco_power_v2:C_2220_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "W1:/5FF18B86:eco_power_v2:SolderWirePad_single_0-8mmDrill".
+
+Información: Comprobando la huella del símbolo de la red "R7:/60054BE6:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "R3:/5FFFF01F:eco_power_v2:R_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "C8:/60054BD1:eco_power_v2:C_1206_HandSoldering".
+
+Añadiendo del nuevo símbolo "R17:/5FFD40C1" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Cambiando de la huella "R3:/5FFFF01F" el nombre de la red del pad "2" de "" a "VCC".
+
+Cambiando de la huella "R17:/5FFD40C1" el nombre de la red del pad "2" de "" a "/A3".
+
+Añadiendo del nuevo símbolo "R15:/5FFCF40F" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Cambiando de la huella "R15:/5FFCF40F" el nombre de la red del pad "2" de "" a "/A1".
+
+Cambiando de la huella "R8:/5FF955F7" el nombre de la red del pad "2" de "" a "/jA0".
+
+Cambiando de la huella "R15:/5FFCF40F" el nombre de la red del pad "1" de "" a "GND".
+
+Cambiando de la huella "R16:/5FFD4090" el nombre de la red del pad "2" de "" a "/A2".
+
+Cambiando de la huella "R8:/5FF955F7" el nombre de la red del pad "1" de "" a "/A0".
+
+Añadiendo del nuevo símbolo "R16:/5FFD4090" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Cambiando de la huella "R16:/5FFD4090" el nombre de la red del pad "1" de "" a "GND".
+
+Añadiendo del nuevo símbolo "R8:/5FF955F7" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Añadiendo del nuevo símbolo "R10:/5FFD4097" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Añadiendo del nuevo símbolo "R11:/5FFD40C8" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Cambiando de la huella "R11:/5FFD40C8" el nombre de la red del pad "2" de "" a "/jA3".
+
+Cambiando de la huella "R11:/5FFD40C8" el nombre de la red del pad "1" de "" a "/A3".
+
+Cambiando de la huella "R10:/5FFD4097" el nombre de la red del pad "2" de "" a "/jA2".
+
+Añadiendo del nuevo símbolo "R12:/5FFD79E8" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Cambiando de la huella "R10:/5FFD4097" el nombre de la red del pad "1" de "" a "/A2".
+
+Cambiando de la huella "R7:/60054BE6" el nombre de la red del pad "2" de "" a "VCC".
+
+Cambiando de la huella "R12:/5FFD79E8" el nombre de la red del pad "1" de "" a "/A4".
+
+Cambiando de la huella "R12:/5FFD79E8" el nombre de la red del pad "2" de "" a "/jA4".
+
+Cambiando de la huella "R14:/5FF955F0" el nombre de la red del pad "1" de "" a "GND".
+
+Añadiendo del nuevo símbolo "R13:/5FFD7A19" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Cambiando de la huella "R13:/5FFD7A19" el nombre de la red del pad "2" de "" a "/jA5".
+
+Cambiando de la huella "R13:/5FFD7A19" el nombre de la red del pad "1" de "" a "/A5".
+
+Cambiando de la huella "R9:/5FFCF416" el nombre de la red del pad "2" de "" a "/jA1".
+
+Cambiando de la huella "R9:/5FFCF416" el nombre de la red del pad "1" de "" a "/A1".
+
+Añadiendo del nuevo símbolo "R14:/5FF955F0" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Añadiendo del nuevo símbolo "R9:/5FFCF416" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Cambiando de la huella "R14:/5FF955F0" el nombre de la red del pad "2" de "" a "/A0".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "1" de "" a "/ard_tx".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "16" de "" a "/D13".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "15" de "" a "/D12".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "14" de "" a "/D11".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "13" de "" a "/D10".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "12" de "" a "/D9".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "11" de "" a "/D8".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "10" de "" a "/D7".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "9" de "" a "/D6".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "8" de "" a "Net-(U1-Pad8)".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "7" de "" a "/D4".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "6" de "" a "/D3".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "5" de "" a "/D2".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "20" de "" a "/A1".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "17" de "" a "Net-(U1-Pad17)".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "18" de "" a "Net-(U1-Pad18)".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "19" de "" a "/A0".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "27" de "" a "VCC".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "28" de "" a "Net-(U1-Pad28)".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "29" de "" a "GND".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "30" de "" a "Net-(U1-Pad30)".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "4" de "" a "GND".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "3" de "" a "Net-(U1-Pad3)".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "2" de "" a "/ard_rx".
+
+Añadiendo del nuevo símbolo "W1:/5FF18B86" la huella "eco_power_v2:SolderWirePad_single_0-8mmDrill".
+
+Cambiando de la huella "W1:/5FF18B86" el nombre de la red del pad "1" de "" a "VCC".
+
+Añadiendo del nuevo símbolo "R22:/5FFEEFD7" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Añadiendo del nuevo símbolo "R18:/5FFD79E1" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Cambiando de la huella "R18:/5FFD79E1" el nombre de la red del pad "2" de "" a "/A4".
+
+Cambiando de la huella "R18:/5FFD79E1" el nombre de la red del pad "1" de "" a "GND".
+
+Añadiendo del nuevo símbolo "R19:/5FFD7A12" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Cambiando de la huella "R19:/5FFD7A12" el nombre de la red del pad "1" de "" a "GND".
+
+Cambiando de la huella "R19:/5FFD7A12" el nombre de la red del pad "2" de "" a "/A5".
+
+Añadiendo del nuevo símbolo "R20:/5FFEEFDE" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Cambiando de la huella "R20:/5FFEEFDE" el nombre de la red del pad "2" de "" a "/jA6".
+
+Cambiando de la huella "R20:/5FFEEFDE" el nombre de la red del pad "1" de "" a "/A6".
+
+Añadiendo del nuevo símbolo "R21:/5FFEF00F" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Cambiando de la huella "R21:/5FFEF00F" el nombre de la red del pad "2" de "" a "/jA7".
+
+Cambiando de la huella "R21:/5FFEF00F" el nombre de la red del pad "1" de "" a "/A7".
+
+Cambiando de la huella "R17:/5FFD40C1" el nombre de la red del pad "1" de "" a "GND".
+
+Cambiando de la huella "R22:/5FFEEFD7" el nombre de la red del pad "1" de "" a "GND".
+
+Cambiando de la huella "R22:/5FFEEFD7" el nombre de la red del pad "2" de "" a "/A6".
+
+Añadiendo del nuevo símbolo "R23:/5FFEF008" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Cambiando de la huella "R23:/5FFEF008" el nombre de la red del pad "1" de "" a "GND".
+
+Cambiando de la huella "R23:/5FFEF008" el nombre de la red del pad "2" de "" a "/A7".
+
+Añadiendo del nuevo símbolo "U1:/5D4E51E2" la huella "eco_power_v2:arduino_nano".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "26" de "" a "/A7".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "25" de "" a "/A6".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "24" de "" a "/A5".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "23" de "" a "/A4".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "22" de "" a "/A3".
+
+Cambiando de la huella "U1:/5D4E51E2" el nombre de la red del pad "21" de "" a "/A2".
+
+Añadiendo del nuevo símbolo "C15:/5FFEEFC9" la huella "eco_power_v2:C_1206_HandSoldering".
+
+Añadiendo del nuevo símbolo "C11:/5FFD4082" la huella "eco_power_v2:C_1206_HandSoldering".
+
+Cambiando de la huella "C11:/5FFD4082" el nombre de la red del pad "2" de "" a "GND".
+
+Cambiando de la huella "C11:/5FFD4082" el nombre de la red del pad "1" de "" a "/A2".
+
+Añadiendo del nuevo símbolo "C12:/5FFD40B3" la huella "eco_power_v2:C_1206_HandSoldering".
+
+Cambiando de la huella "C12:/5FFD40B3" el nombre de la red del pad "1" de "" a "/A3".
+
+Cambiando de la huella "C12:/5FFD40B3" el nombre de la red del pad "2" de "" a "GND".
+
+Añadiendo del nuevo símbolo "C13:/5FFD79D3" la huella "eco_power_v2:C_1206_HandSoldering".
+
+Cambiando de la huella "C13:/5FFD79D3" el nombre de la red del pad "2" de "" a "GND".
+
+Cambiando de la huella "C13:/5FFD79D3" el nombre de la red del pad "1" de "" a "/A4".
+
+Añadiendo del nuevo símbolo "C14:/5FFD7A04" la huella "eco_power_v2:C_1206_HandSoldering".
+
+Cambiando de la huella "C14:/5FFD7A04" el nombre de la red del pad "1" de "" a "/A5".
+
+Cambiando de la huella "C14:/5FFD7A04" el nombre de la red del pad "2" de "" a "GND".
+
+Cambiando de la huella "C10:/5FFCF401" el nombre de la red del pad "2" de "" a "GND".
+
+Cambiando de la huella "C15:/5FFEEFC9" el nombre de la red del pad "1" de "" a "/A6".
+
+Cambiando de la huella "C15:/5FFEEFC9" el nombre de la red del pad "2" de "" a "GND".
+
+Añadiendo del nuevo símbolo "C16:/5FFEEFFA" la huella "eco_power_v2:C_1206_HandSoldering".
+
+Cambiando de la huella "C16:/5FFEEFFA" el nombre de la red del pad "2" de "" a "GND".
+
+Cambiando de la huella "C16:/5FFEEFFA" el nombre de la red del pad "1" de "" a "/A7".
+
+Añadiendo del nuevo símbolo "J1:/5D4CBA5C" la huella "eco_power_v2:Pin_Header_Straight_2x05_Pitch2.54mm_onsar".
+
+Cambiando de la huella "J1:/5D4CBA5C" el nombre de la red del pad "10" de "" a "GND".
+
+Cambiando de la huella "J1:/5D4CBA5C" el nombre de la red del pad "9" de "" a "/vcc_5v".
+
+Cambiando de la huella "J1:/5D4CBA5C" el nombre de la red del pad "8" de "" a "/D9".
+
+Cambiando de la huella "J1:/5D4CBA5C" el nombre de la red del pad "7" de "" a "/vcc_5v".
+
+Cambiando de la huella "J1:/5D4CBA5C" el nombre de la red del pad "6" de "" a "/D8".
+
+Cambiando de la huella "C6:/6004F3BE" el nombre de la red del pad "2" de "" a "GND".
+
+Añadiendo del nuevo símbolo "C1:/5FF18B84" la huella "eco_power_v2:C_2220_HandSoldering".
+
+Cambiando de la huella "C1:/5FF18B84" el nombre de la red del pad "2" de "" a "GND".
+
+Cambiando de la huella "C1:/5FF18B84" el nombre de la red del pad "1" de "" a "VCC".
+
+Añadiendo del nuevo símbolo "C2:/5FFB1A03" la huella "eco_power_v2:C_1206_HandSoldering".
+
+Cambiando de la huella "C2:/5FFB1A03" el nombre de la red del pad "2" de "" a "GND".
+
+Cambiando de la huella "C2:/5FFB1A03" el nombre de la red del pad "1" de "" a "/D2".
+
+Añadiendo del nuevo símbolo "C5:/6004F39B" la huella "eco_power_v2:C_1206_HandSoldering".
+
+Cambiando de la huella "C5:/6004F39B" el nombre de la red del pad "2" de "" a "GND".
+
+Cambiando de la huella "C5:/6004F39B" el nombre de la red del pad "1" de "" a "/D10".
+
+Añadiendo del nuevo símbolo "C6:/6004F3BE" la huella "eco_power_v2:C_1206_HandSoldering".
+
+Cambiando de la huella "C6:/6004F3BE" el nombre de la red del pad "1" de "" a "/D11".
+
+Añadiendo del nuevo símbolo "R7:/60054BE6" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Añadiendo del nuevo símbolo "C7:/6004F3E1" la huella "eco_power_v2:C_1206_HandSoldering".
+
+Cambiando de la huella "C7:/6004F3E1" el nombre de la red del pad "2" de "" a "GND".
+
+Cambiando de la huella "C7:/6004F3E1" el nombre de la red del pad "1" de "" a "/D12".
+
+Añadiendo del nuevo símbolo "C8:/60054BD1" la huella "eco_power_v2:C_1206_HandSoldering".
+
+Cambiando de la huella "C8:/60054BD1" el nombre de la red del pad "1" de "" a "/D13".
+
+Cambiando de la huella "C8:/60054BD1" el nombre de la red del pad "2" de "" a "GND".
+
+Añadiendo del nuevo símbolo "C9:/5FF955E2" la huella "eco_power_v2:C_1206_HandSoldering".
+
+Cambiando de la huella "C9:/5FF955E2" el nombre de la red del pad "2" de "" a "GND".
+
+Cambiando de la huella "C9:/5FF955E2" el nombre de la red del pad "1" de "" a "/A0".
+
+Añadiendo del nuevo símbolo "C10:/5FFCF401" la huella "eco_power_v2:C_1206_HandSoldering".
+
+Cambiando de la huella "C10:/5FFCF401" el nombre de la red del pad "1" de "" a "/A1".
+
+Añadiendo del nuevo símbolo "R3:/5FFFF01F" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Cambiando de la huella "J5:/601390B1" el nombre de la red del pad "3" de "" a "/jA1".
+
+Cambiando de la huella "J5:/601390B1" el nombre de la red del pad "1" de "" a "/vcc_5v".
+
+Cambiando de la huella "J5:/601390B1" el nombre de la red del pad "4" de "" a "/jA2".
+
+Cambiando de la huella "J5:/601390B1" el nombre de la red del pad "5" de "" a "/jA3".
+
+Cambiando de la huella "J5:/601390B1" el nombre de la red del pad "6" de "" a "GND".
+
+Añadiendo del nuevo símbolo "P1:/5FF18B83" la huella "eco_power_v2:TerminalBlock_bornier-2_P5.08mm".
+
+Cambiando de la huella "P1:/5FF18B83" el nombre de la red del pad "2" de "" a "/vcc_5v".
+
+Cambiando de la huella "P1:/5FF18B83" el nombre de la red del pad "1" de "" a "GND".
+
+Añadiendo del nuevo símbolo "R1:/5FFB1A2C" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Cambiando de la huella "R1:/5FFB1A2C" el nombre de la red del pad "1" de "" a "/D2".
+
+Cambiando de la huella "R1:/5FFB1A2C" el nombre de la red del pad "2" de "" a "VCC".
+
+Cambiando de la huella "J1:/5D4CBA5C" el nombre de la red del pad "4" de "" a "/D7".
+
+Cambiando de la huella "R3:/5FFFF01F" el nombre de la red del pad "1" de "" a "/D4".
+
+Añadiendo del nuevo símbolo "R4:/6004F3B0" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Cambiando de la huella "R4:/6004F3B0" el nombre de la red del pad "2" de "" a "VCC".
+
+Cambiando de la huella "R4:/6004F3B0" el nombre de la red del pad "1" de "" a "/D10".
+
+Añadiendo del nuevo símbolo "R5:/6004F3D3" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Cambiando de la huella "R5:/6004F3D3" el nombre de la red del pad "1" de "" a "/D11".
+
+Cambiando de la huella "R5:/6004F3D3" el nombre de la red del pad "2" de "" a "VCC".
+
+Añadiendo del nuevo símbolo "R6:/6004F3F6" la huella "eco_power_v2:R_1206_HandSoldering".
+
+Cambiando de la huella "R6:/6004F3F6" el nombre de la red del pad "2" de "" a "VCC".
+
+Cambiando de la huella "R6:/6004F3F6" el nombre de la red del pad "1" de "" a "/D12".
+
+Cambiando de la huella "R7:/60054BE6" el nombre de la red del pad "1" de "" a "/D13".
+
+Añadiendo del nuevo símbolo "J5:/601390B1" la huella "TerminalBlock:TerminalBlock_bornier-6_P5.08mm".
+
+Cambiando de la huella "J1:/5D4CBA5C" el nombre de la red del pad "5" de "" a "GND".
+
+Cambiando de la huella "J1:/5D4CBA5C" el nombre de la red del pad "3" de "" a "/ard_rx".
+
+Cambiando de la huella "J1:/5D4CBA5C" el nombre de la red del pad "2" de "" a "/D6".
+
+Cambiando de la huella "J1:/5D4CBA5C" el nombre de la red del pad "1" de "" a "/ard_tx".
+
+Añadiendo del nuevo símbolo "J2:/60138EF1" la huella "TerminalBlock:TerminalBlock_bornier-6_P5.08mm".
+
+Cambiando de la huella "J2:/60138EF1" el nombre de la red del pad "6" de "" a "GND".
+
+Cambiando de la huella "J2:/60138EF1" el nombre de la red del pad "5" de "" a "/jA7".
+
+Cambiando de la huella "J2:/60138EF1" el nombre de la red del pad "4" de "" a "/jA6".
+
+Cambiando de la huella "J2:/60138EF1" el nombre de la red del pad "1" de "" a "/vcc_5v".
+
+Cambiando de la huella "J2:/60138EF1" el nombre de la red del pad "3" de "" a "/jA5".
+
+Cambiando de la huella "J5:/601390B1" el nombre de la red del pad "2" de "" a "/jA0".
+
+Cambiando de la huella "J2:/60138EF1" el nombre de la red del pad "2" de "" a "/jA4".
+
+Añadiendo del nuevo símbolo "J3:/60139D5D" la huella "TerminalBlock:TerminalBlock_bornier-3_P5.08mm".
+
+Cambiando de la huella "J3:/60139D5D" el nombre de la red del pad "1" de "" a "/D3".
+
+Cambiando de la huella "J3:/60139D5D" el nombre de la red del pad "2" de "" a "/D2".
+
+Cambiando de la huella "J3:/60139D5D" el nombre de la red del pad "3" de "" a "GND".
+
+Añadiendo del nuevo símbolo "J4:/6011E7C7" la huella "TerminalBlock:TerminalBlock_bornier-6_P5.08mm".
+
+Cambiando de la huella "J4:/6011E7C7" el nombre de la red del pad "2" de "" a "/D13".
+
+Cambiando de la huella "J4:/6011E7C7" el nombre de la red del pad "3" de "" a "/D12".
+
+Cambiando de la huella "J4:/6011E7C7" el nombre de la red del pad "1" de "" a "/vcc_5v".
+
+Cambiando de la huella "J4:/6011E7C7" el nombre de la red del pad "4" de "" a "/D11".
+
+Cambiando de la huella "J4:/6011E7C7" el nombre de la red del pad "5" de "" a "/D10".
+
+Cambiando de la huella "J4:/6011E7C7" el nombre de la red del pad "6" de "" a "/D4".
+
+Aviso: Ha cambiado la huella del símbolo "D1": huella en placa "Diodes_SMD:D_2114", huella en listado de redes "eco_power_v2:D_2114"
+
+Aviso: Ha cambiado la huella del símbolo "C4": huella en placa "Capacitors_SMD:C_2220_HandSoldering", huella en listado de redes "eco_power_v2:C_1206_HandSoldering"
+
+Aviso: Ha cambiado la huella del símbolo "C3": huella en placa "Capacitors_SMD:C_1206_HandSoldering", huella en listado de redes "eco_power_v2:C_1206_HandSoldering"
+
+Aviso: Ha cambiado la huella del símbolo "R2": huella en placa "Resistors_SMD:R_1206_HandSoldering", huella en listado de redes "eco_power_v2:R_1206_HandSoldering"
+
