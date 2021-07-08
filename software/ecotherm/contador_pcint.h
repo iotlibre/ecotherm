@@ -7,10 +7,10 @@
 /*********************************/
 
 // {arduino_pin, sensor_name, pulse_counter, disable_until_time}
-#define MONITOREDPINS    {2,"e4",0,MAXTIME}, \
-                         {3,"e3",0,MAXTIME}, \
-                         {4,"e2",0,MAXTIME}, \
-                         {5,"e1",0,MAXTIME},
+#define MONITOREDPINS    {2,"e3",0,MAXTIME}, \
+                         {3,"e2",0,MAXTIME}, \
+                         {4,"e1",0,MAXTIME}, \
+                         {5,"e0",0,MAXTIME},
 
 // *******************************************************
 

@@ -49,7 +49,7 @@ La medida de temperatura se hace con sensores ds18b20
 
 #define BPS 115200
 
-#define TX_PERIOD 10000
+#define TX_PERIOD 59000
 
 #include "contador_pcint.h"
 
@@ -83,7 +83,7 @@ void loop() {
 
   uint32_t current_time= millis();
 
-  if (current_time < t_last_tx) current_time = t_last_tx;
+  if (current_time < t_last_tx) t_last_tx = current_time;
   if ((current_time - t_last_tx) > TX_PERIOD){
     
     if(DEBUG)Serial.print(F("****** TX- sgs: "));
