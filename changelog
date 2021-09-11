@@ -1,0 +1,12 @@
+v.1.0 Stable software and hardware
+==================================
+Versions
+--------
+* hardware iot_esp12: v2.0
+* hardware iot_therm: v1.0
+* firmware iot_esp12: 20180328_EmonESP
+* firmware iot_therm: v1.1
+
+Fixed bugs
+----------
+* Time counter blocking 
