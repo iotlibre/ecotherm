@@ -51,7 +51,6 @@ La configuración en la instalación
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 En este punto se definen los parámetros del servidor de destino y la wifi local a la que va a estar conectado el dispositivo. Con este fin, la primera vez que se ponga en servicio el ESP y siempre que no encuentre la WIFI configurada, el ESP 8266 12E creará su propio punto de acceso, su propia red WIFI. Conectándose a cualquier dirección a través de este punto de acceso nos aparecerá la página de configuración del ESP. Tengase en cuenta que una vez configurado el ESP y conectado a una red WIFI el router le asignará una única dirección IP a la que será necesario acceder para cambiar la configuración
 
-
 Código fuente
 ~~~~~~~~~~~~~
 El código del firmware y la documentación del hardware se puede encontrar en `repositorio <https://github.com/iotlibre/ecoThermal>`_
