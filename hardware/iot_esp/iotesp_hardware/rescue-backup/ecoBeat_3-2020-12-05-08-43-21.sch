@@ -1,6 +1,38 @@
-EESchema Schematic File Version 4
+EESchema Schematic File Version 2
+LIBS:ecoBeat_3-rescue
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:wemos_mini
+LIBS:ecomodbus
 LIBS:ecoBeat_3-cache
-EELAYER 26 0
+EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -15,7 +47,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L ecoBeat_3-rescue:LED-RESCUE-ecoBeat_3 D2
+L LED-RESCUE-ecoBeat_3 D2
 U 1 1 5A83FD4B
 P 8470 3515
 F 0 "D2" H 8470 3615 50  0000 C CNN
@@ -26,7 +58,7 @@ F 3 "" H 8470 3515 50  0000 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L ecoBeat_3-rescue:LED-RESCUE-ecoBeat_3 D3
+L LED-RESCUE-ecoBeat_3 D3
 U 1 1 5A83FF0F
 P 8470 3820
 F 0 "D3" H 8470 3920 50  0000 C CNN
@@ -37,7 +69,7 @@ F 3 "" H 8470 3820 50  0000 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L ecoBeat_3-rescue:PWR_FLAG #FLG01
+L PWR_FLAG #FLG01
 U 1 1 5A84326B
 P 2780 1905
 F 0 "#FLG01" H 2780 2000 50  0001 C CNN
@@ -48,7 +80,7 @@ F 3 "" H 2780 1905 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ecoBeat_3-rescue:GND #PWR02
+L GND #PWR02
 U 1 1 5A84C7C1
 P 8720 4070
 F 0 "#PWR02" H 8720 3820 50  0001 C CNN
@@ -59,7 +91,7 @@ F 3 "" H 8720 4070 50  0000 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L ecoBeat_3-rescue:R R9
+L R R9
 U 1 1 5A858B7F
 P 8020 3820
 F 0 "R9" V 8100 3820 50  0000 C CNN
@@ -70,7 +102,7 @@ F 3 "" H 8020 3820 50  0000 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L ecoBeat_3-rescue:R R8
+L R R8
 U 1 1 5A858C9F
 P 8020 3515
 F 0 "R8" V 8100 3515 50  0000 C CNN
@@ -81,7 +113,7 @@ F 3 "" H 8020 3515 50  0000 C CNN
 	0    1    -1   0   
 $EndComp
 $Comp
-L ecoBeat_3-rescue:WeMos_mini U1
+L WeMos_mini U1
 U 1 1 5ABA378E
 P 6065 3875
 F 0 "U1" H 6065 4375 60  0000 C CNN
@@ -94,7 +126,7 @@ $EndComp
 NoConn ~ 5565 3525
 NoConn ~ 5565 3625
 $Comp
-L ecoBeat_3-rescue:CONN_02X05 P1
+L CONN_02X05 P1
 U 1 1 5D78B836
 P 3395 3735
 F 0 "P1" H 3395 4035 50  0000 C CNN
@@ -107,7 +139,7 @@ $EndComp
 Text Label 7865 3515 2    60   ~ 0
 esp_d4
 $Comp
-L ecoBeat_3-rescue:TEST_1P J1
+L TEST_1P J1
 U 1 1 5D7CA38F
 P 5345 2045
 F 0 "J1" H 5420 2320 50  0000 C CNN
@@ -118,7 +150,7 @@ F 3 "" H 5545 2045 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ecoBeat_3-rescue:D_Schottky-RESCUE-ecoBeat_3 D1
+L D_Schottky-RESCUE-ecoBeat_3 D1
 U 1 1 5D7CA61B
 P 5130 2090
 F 0 "D1" H 5315 1850 50  0000 C CNN
@@ -129,7 +161,7 @@ F 3 "" H 5130 2090 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L ecoBeat_3-rescue:GND #PWR03
+L GND #PWR03
 U 1 1 5D7CBFDF
 P 6925 4125
 F 0 "#PWR03" H 6925 3875 50  0001 C CNN
@@ -148,7 +180,7 @@ vin_5v
 Text Label 7570 3820 0    60   ~ 0
 vin_5v
 $Comp
-L ecoBeat_3-rescue:PWR_FLAG #FLG04
+L PWR_FLAG #FLG04
 U 1 1 5DEA49F7
 P 3575 1900
 F 0 "#FLG04" H 3575 1995 50  0001 C CNN
@@ -159,7 +191,7 @@ F 3 "" H 3575 1900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ecoBeat_3-rescue:GND #PWR05
+L GND #PWR05
 U 1 1 5DEA49F9
 P 3575 2000
 F 0 "#PWR05" H 3575 1750 50  0001 C CNN
@@ -186,7 +218,7 @@ esp_d5
 Text Label 3730 3835 0    60   ~ 0
 esp_d6
 $Comp
-L ecoBeat_3-rescue:VCC #PWR06
+L VCC #PWR06
 U 1 1 5A8432ED
 P 2780 2005
 F 0 "#PWR06" H 2780 1855 50  0001 C CNN
@@ -217,7 +249,7 @@ Wire Wire Line
 Wire Wire Line
 	8620 3515 8720 3515
 Wire Wire Line
-	8720 3515 8720 3820
+	8720 3515 8720 4070
 Wire Wire Line
 	3645 3635 4045 3635
 Wire Wire Line
@@ -259,7 +291,7 @@ Wire Wire Line
 Wire Wire Line
 	4980 2090 4625 2090
 Wire Wire Line
-	5345 2045 5345 2090
+	5345 2045 5345 2180
 Connection ~ 5345 2090
 Wire Wire Line
 	3575 1900 3575 2000
@@ -294,7 +326,7 @@ Wire Wire Line
 Text Label 3730 3635 0    60   ~ 0
 esp_d8
 $Comp
-L ecoBeat_3-rescue:CP1 C1
+L CP1 C1
 U 1 1 5EA14E3D
 P 5345 2330
 F 0 "C1" H 5370 2430 50  0000 L CNN
@@ -305,7 +337,7 @@ F 3 "" H 5345 2330 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ecoBeat_3-rescue:GND #PWR07
+L GND #PWR07
 U 1 1 5EA15207
 P 5345 2480
 F 0 "#PWR07" H 5345 2230 50  0001 C CNN
@@ -320,9 +352,9 @@ NoConn ~ 6925 3825
 NoConn ~ 6925 3925
 NoConn ~ 5565 3725
 Wire Wire Line
-	5280 2090 5345 2090
+	5280 2090 6255 2090
 $Comp
-L ecoBeat_3-rescue:C C2
+L C C2
 U 1 1 5EA1786D
 P 5765 2330
 F 0 "C2" H 5790 2430 50  0000 L CNN
@@ -336,7 +368,7 @@ Wire Wire Line
 	5765 2180 5765 2090
 Connection ~ 5765 2090
 $Comp
-L ecoBeat_3-rescue:GND #PWR08
+L GND #PWR08
 U 1 1 5EA17AB2
 P 5765 2480
 F 0 "#PWR08" H 5765 2230 50  0001 C CNN
@@ -346,12 +378,4 @@ F 3 "" H 5765 2480 50  0000 C CNN
 	1    5765 2480
 	-1   0    0    -1  
 $EndComp
-Wire Wire Line
-	8720 3820 8720 4070
-Wire Wire Line
-	5345 2090 5345 2180
-Wire Wire Line
-	5345 2090 5765 2090
-Wire Wire Line
-	5765 2090 6255 2090
 $EndSCHEMATC

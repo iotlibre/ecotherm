@@ -1,11 +1,11 @@
-EESchema-LIBRARY Version 2.3
+EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# C
+# ecoBeat_3-rescue_C
 #
-DEF C C 0 10 N Y 1 F N
+DEF ecoBeat_3-rescue_C C 0 10 N Y 1 F N
 F0 "C" 25 100 50 H V L CNN
-F1 "C" 25 -100 50 H V L CNN
+F1 "ecoBeat_3-rescue_C" 25 -100 50 H V L CNN
 F2 "" 38 -150 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -19,11 +19,11 @@ X ~ 2 0 -150 110 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# CONN_02X05
+# ecoBeat_3-rescue_CONN_02X05
 #
-DEF CONN_02X05 P 0 1 Y N 1 F N
+DEF ecoBeat_3-rescue_CONN_02X05 P 0 1 Y N 1 F N
 F0 "P" 0 300 50 H V C CNN
-F1 "CONN_02X05" 0 -300 50 H V C CNN
+F1 "ecoBeat_3-rescue_CONN_02X05" 0 -300 50 H V C CNN
 F2 "" 0 -1200 50 H V C CNN
 F3 "" 0 -1200 50 H V C CNN
 $FPLIST
@@ -45,6 +45,7 @@ S 50 5 100 -5 0 1 0 N
 S 50 105 100 95 0 1 0 N
 S 50 205 100 195 0 1 0 N
 X P1 1 -250 200 150 R 50 50 1 1 P
+X P10 10 250 -200 150 L 50 50 1 1 P
 X P2 2 250 200 150 L 50 50 1 1 P
 X P3 3 -250 100 150 R 50 50 1 1 P
 X P4 4 250 100 150 L 50 50 1 1 P
@@ -53,15 +54,14 @@ X P6 6 250 0 150 L 50 50 1 1 P
 X P7 7 -250 -100 150 R 50 50 1 1 P
 X P8 8 250 -100 150 L 50 50 1 1 P
 X P9 9 -250 -200 150 R 50 50 1 1 P
-X P10 10 250 -200 150 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# CP1
+# ecoBeat_3-rescue_CP1
 #
-DEF CP1 C 0 10 N N 1 F N
+DEF ecoBeat_3-rescue_CP1 C 0 10 N N 1 F N
 F0 "C" 25 100 50 H V L CNN
-F1 "CP1" 25 -100 50 H V L CNN
+F1 "ecoBeat_3-rescue_CP1" 25 -100 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -77,11 +77,11 @@ X ~ 2 0 -150 130 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# D_Schottky-RESCUE-ecoBeat_3
+# ecoBeat_3-rescue_D_Schottky-RESCUE-ecoBeat_3
 #
-DEF D_Schottky-RESCUE-ecoBeat_3 D 0 40 N N 1 F N
+DEF ecoBeat_3-rescue_D_Schottky-RESCUE-ecoBeat_3 D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "D_Schottky-RESCUE-ecoBeat_3" 0 -100 50 H V C CNN
+F1 "ecoBeat_3-rescue_D_Schottky-RESCUE-ecoBeat_3" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -100,11 +100,11 @@ X A 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# GND
+# ecoBeat_3-rescue_GND
 #
-DEF GND #PWR 0 0 Y Y 1 F P
+DEF ecoBeat_3-rescue_GND #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -250 50 H I C CNN
-F1 "GND" 0 -150 50 H V C CNN
+F1 "ecoBeat_3-rescue_GND" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -113,11 +113,11 @@ X GND 1 0 0 0 D 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# LED-RESCUE-ecoBeat_3
+# ecoBeat_3-rescue_LED-RESCUE-ecoBeat_3
 #
-DEF LED-RESCUE-ecoBeat_3 D 0 40 Y N 1 F N
+DEF ecoBeat_3-rescue_LED-RESCUE-ecoBeat_3 D 0 40 Y N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "LED-RESCUE-ecoBeat_3" 0 -100 50 H V C CNN
+F1 "ecoBeat_3-rescue_LED-RESCUE-ecoBeat_3" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -134,24 +134,24 @@ X A 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# PWR_FLAG
+# ecoBeat_3-rescue_PWR_FLAG
 #
-DEF PWR_FLAG #FLG 0 0 N N 1 F P
+DEF ecoBeat_3-rescue_PWR_FLAG #FLG 0 0 N N 1 F P
 F0 "#FLG" 0 75 50 H I C CNN
-F1 "PWR_FLAG" 0 150 50 H V C CNN
+F1 "ecoBeat_3-rescue_PWR_FLAG" 0 150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
-X pwr 1 0 0 0 U 50 50 0 0 w
 P 6 0 1 0 0 0 0 50 -40 75 0 100 40 75 0 50 N
+X pwr 1 0 0 0 U 50 50 0 0 w
 ENDDRAW
 ENDDEF
 #
-# R
+# ecoBeat_3-rescue_R
 #
-DEF R R 0 0 N Y 1 F N
+DEF ecoBeat_3-rescue_R R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
-F1 "R" 0 0 50 V V C CNN
+F1 "ecoBeat_3-rescue_R" 0 0 50 V V C CNN
 F2 "" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -165,11 +165,11 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# TEST_1P
+# ecoBeat_3-rescue_TEST_1P
 #
-DEF TEST_1P J 0 30 N N 1 F N
+DEF ecoBeat_3-rescue_TEST_1P J 0 30 N N 1 F N
 F0 "J" 0 270 50 H V C CNN
-F1 "TEST_1P" 0 200 50 H V C CNN
+F1 "ecoBeat_3-rescue_TEST_1P" 0 200 50 H V C CNN
 F2 "" 200 0 50 H I C CNN
 F3 "" 200 0 50 H I C CNN
 DRAW
@@ -178,11 +178,11 @@ X 1 1 0 0 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# VCC
+# ecoBeat_3-rescue_VCC
 #
-DEF VCC #PWR 0 0 Y Y 1 F P
+DEF ecoBeat_3-rescue_VCC #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -150 50 H I C CNN
-F1 "VCC" 0 150 50 H V C CNN
+F1 "ecoBeat_3-rescue_VCC" 0 150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -192,16 +192,23 @@ X VCC 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# WeMos_mini
+# ecoBeat_3-rescue_WeMos_mini
 #
-DEF WeMos_mini U 0 40 Y Y 1 F N
+DEF ecoBeat_3-rescue_WeMos_mini U 0 40 Y Y 1 F N
 F0 "U" 0 500 60 H V C CNN
-F1 "WeMos_mini" 0 -500 60 H V C CNN
+F1 "ecoBeat_3-rescue_WeMos_mini" 0 -500 60 H V C CNN
 F2 "" 550 -700 60 H V C CNN
 F3 "" 550 -700 60 H V C CNN
 DRAW
 S -300 450 300 -550 0 1 0 N
 X RST 1 -500 350 200 R 50 50 1 1 W
+X GND 10 500 -250 200 L 50 50 1 1 W
+X D4 11 500 -150 200 L 50 50 1 1 B
+X D3 12 500 -50 200 L 50 50 1 1 B
+X D2 13 500 50 200 L 50 50 1 1 B
+X D1 14 500 150 200 L 50 50 1 1 B
+X Rx 15 500 250 200 L 50 50 1 1 B
+X Tx 16 500 350 200 L 50 50 1 1 w
 X A0 2 -500 250 200 R 50 50 1 1 W
 X D0 3 -500 150 200 R 50 50 1 1 B
 X D5 4 -500 50 200 R 50 50 1 1 B
@@ -210,13 +217,6 @@ X D7 6 -500 -150 200 R 50 50 1 1 B
 X D8 7 -500 -250 200 R 50 50 1 1 B
 X 3V3 8 -500 -350 200 R 50 50 1 1 B
 X 5V 9 500 -350 200 L 50 50 1 1 W
-X GND 10 500 -250 200 L 50 50 1 1 W
-X D4 11 500 -150 200 L 50 50 1 1 B
-X D3 12 500 -50 200 L 50 50 1 1 B
-X D2 13 500 50 200 L 50 50 1 1 B
-X D1 14 500 150 200 L 50 50 1 1 B
-X Rx 15 500 250 200 L 50 50 1 1 B
-X Tx 16 500 350 200 L 50 50 1 1 w
 ENDDRAW
 ENDDEF
 #
