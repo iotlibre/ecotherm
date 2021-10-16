@@ -1,60 +1,62 @@
 ecoTherm
 ==========
-ecoThermal esta diseñado para medir la energía térmica de una instalación que disponga de uno o varios circuitos de agua a diferentes temperaturas. Este dispositivo esta diseñado para medir:
+ecoTherm is designed to measure the thermal energy of an installation that has one or more water circuits at different temperatures. This device can measure:
 
-* Temperatura mediante sondas del tipo 18b20
-* Caudal a través de pulsos proporcionados por contadores de agua
-* Valores analógicos tanto de voltaje como de corriente. 
+* Temperature using 18b20 type probes
+* Flow through pulses provided by water meters
+* Analog values ​​for both voltage and current.
 
-Las medias se toman cada segundo haciendo una media de estos valores para cada periodo de reporte en el que el valor es proporcionado.
+For temperature measurement and analog values, samples are taken in one-second intervals. The value provided, each time the information is transmitted, is the average of all the samples taken.
 
-ecoThermal se puede instalar sobre carril DIN a una distancia que permita la comunicación con las sondas disponibles en la instalación. En un edificio podemos tener tantos dispositivos como sean necesarios y el servidor los integrará en la misma instalación sin necesidad de configuraciones adicionales o cambios en el Firmware. La comunicación se hace mediante wifi por lo que no es necesario el cableado de datos al equipo solamente es preciso que esté dentro de la cobertura de la red wifi del edificio.
+The pulses are measured by interruptions and the value provided, in each reporting period, is the number of interruptions accumulated since the last time the equipment was restarted.
 
-Para el uso de ecoThermal, no son necesarios conocimientos de informática aunque todos los desarrollos y el hardware están hechos bajo licencias libres lo que permite la modificación y mejora de las funcionalidades.
+ecoThermal can be installed on a DIN rail at a distance that allows communication with the sensors implemented in the installation. In a building we can have as many devices as are necessary and the server will integrate them in the same installation without the need for additional configurations or firmware changes. Communication is done through Wi-Fi so data cabling to the equipment is not necessary. Only ecoTherm needs to be within the coverage of the building's Wi-Fi network.
 
-.. image:: ./imagenes/ecothermal_board.png
+To use ecoTherm, computer knowledge is not necessary, although all developments and hardware are made under free licenses, which allows the modification and improvement of functionalities.
 
-Principales características
+.. image :: ./images/ecotherm_board.png
+
+Main features
 ---------------------------
-* 15 entradas configurables para cada tipo de sensor
-* Admite hasta 28 sondas de temperatura repartidas en 7 buses
-* Es posible integrar hasta 15 medidas de caudal
-* Puede medir hasta 8 Valores analógicos
-* Precisión en las medida de temperatura: ± 0,5 °C
-* La precisión de las medidas analógicas depende de las sondas utilizadas.
-* La precisión de las medias de caudal corresponde a los medidores implementados
-* Comunicación a Internet se hace por WIFI local
-* Configurable vía Web
-* Estandard: IEEE 802.11 b/g/n
-* Alimentación a 220 voltios de corriente alterna. Rango: 85 ~ 264VAC
-* Montaje en carril din
-* La PCB integra un Arduino nano con el ESP8266 12E
-* Compatible con el servidor IoE
+* 15 configurable inputs
+* Supports up to 28 temperature probes spread over 7 buses
+* It is possible to integrate up to 15 flow measurements
+* Can measure up to 8 analog values
+* Accuracy in temperature measurements: ± 0.5 ° C
+* The precision of analog measurements depends on the probes used.
+* The precision of the flow averages corresponds to the meters implemented
+* Internet communication is done by local WIFI
+* Configurable via Web
+* Standard: IEEE 802.11 b / g / n
+* 220 volt AC power supply. Range: 85 ~ 264VAC
+* Din rail mounting
+* The PCB integrates an Arduino nano with the ESP8266 12E
+* Implements the MQTT protocol
+* Compatible with `emonCMS <https://emoncms.org>`_
 
-Puesta a punto
+Start up
 --------------
-La puesta a punto de ecoThermal consta de tres partes:
+The ecoThermal set-up consists of three parts:
 
-* La configuración del hardware
-* El firmware de Arduino
-* La configuración en la instalación
+* Hardware configuration
+* The Arduino firmware
+* Configuration on installation
 
-La configuración del hardware
+Hardware configuration
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-El hardware por defecto esta preparado para 8 entradas analógicas, 3 caudales y 16 sondas de temperatura repartidas en 4 buses. Sin embargo esta configuración se puede modificar cambiando los componentes de superficie de la PCB hasta la combinación de medidas que nos se adapte mas al proyecto.
+The default hardware is prepared for 8 analog inputs, 3 flow rates and 16 temperature probes divided into 4 buses. However, this configuration can be modified by changing the surface components of the PCB until the combination of measures that best suits the project.
 
-El firmware de Arduino
+Arduino firmware
 ~~~~~~~~~~~~~~~~~~~~~~
-El firmware que esta cargado, por defecto, en el Arduino nano funciona correctamente con la configuración, del hardware, por defecto. En el caso de cambiar el hardware también es necesario cambiar el firmware del Arduino integrado en la PCB y que se puede encontrar en el código fuente
+The firmware that is loaded, by default, in the Arduino nano works correctly with the hardware configuration, by default. In the case of changing the hardware, it is also necessary to change the firmware of the Arduino integrated in the PCB and that can be found in the source code
 
-La configuración en la instalación
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-En este punto se definen los parámetros del servidor de destino y la wifi local a la que va a estar conectado el dispositivo. Con este fin, la primera vez que se ponga en servicio el ESP y siempre que no encuentre la WIFI configurada, el ESP 8266 12E creará su propio punto de acceso, su propia red WIFI. Conectándose a cualquier dirección a través de este punto de acceso nos aparecerá la página de configuración del ESP. Tengase en cuenta que una vez configurado el ESP y conectado a una red WIFI el router le asignará una única dirección IP a la que será necesario acceder para cambiar la configuración
+Configuration at installation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+At this point, the parameters of the destination server and the local Wi-Fi to which the device will be connected are defined. To this end, the first time the ESP 8266 12E is put into service it will create its own access point, its own WIFI network. By connecting to any address, through this access point, the ESP configuration page will appear. Bear in mind that once ESP is configured and connected to a WIFI network, the router will assign you a single IP address that will be necessary to access to change the configuration.
+The ESP configuration details can be found in the `repository <ttps: //github.com/openenergymonitor/EmonESP>` _
 
-Código fuente
+Source code
 ~~~~~~~~~~~~~
-El código del firmware y la documentación del hardware se puede encontrar en `repositorio <https://github.com/iotlibre/ecoThermal>`_
-
-
+Firmware code and hardware documentation can be found in the `repository <https://github.com/iotlibre/ecoTherm>`_ 
 
 
