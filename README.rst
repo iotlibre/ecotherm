@@ -14,13 +14,8 @@ ecoThermal can be installed on a DIN rail at a distance that allows communicatio
 
 To use ecoTherm, computer knowledge is not necessary, although all developments and hardware are made under free licenses, which allows the modification and improvement of functionalities.
 
-.. image :: ./images/ecotherm_board.png
-   :height: 10px
-   :width: 20 px
-   :scale: 10 %
-   
 Main features
----------------------------
+-------------
 * 15 configurable inputs
 * Supports up to 28 temperature probes spread over 7 buses
 * It is possible to integrate up to 15 flow measurements
@@ -37,8 +32,15 @@ Main features
 * Implements the MQTT protocol
 * Compatible with `emonCMS <https://emoncms.org>`_
 
+Hardware
+--------
+The hardware design is based on two PCBs that are interconnected by a ribbon cable. These two cards are machined in a din rail housing. This entire system is powered by 5 volt power supply. 
+
+.. image :: ./images/ecotherm_board.png
+
+
 Start up
---------------
+--------
 The ecoThermal set-up consists of three parts:
 
 * Hardware configuration
@@ -46,20 +48,20 @@ The ecoThermal set-up consists of three parts:
 * Configuration on installation
 
 Hardware configuration
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 The default hardware is prepared for 8 analog inputs, 3 flow rates and 16 temperature probes divided into 4 buses. However, this configuration can be modified by changing the surface components of the PCB until the combination of measures that best suits the project.
 
 Arduino firmware
-~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
 The firmware that is loaded, by default, in the Arduino nano works correctly with the hardware configuration, by default. In the case of changing the hardware, it is also necessary to change the firmware of the Arduino integrated in the PCB and that can be found in the source code
 
 Configuration at installation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 At this point, the parameters of the destination server and the local Wi-Fi to which the device will be connected are defined. To this end, the first time the ESP 8266 12E is put into service it will create its own access point, its own WIFI network. By connecting to any address, through this access point, the ESP configuration page will appear. Bear in mind that once ESP is configured and connected to a WIFI network, the router will assign you a single IP address that will be necessary to access to change the configuration.
 The ESP configuration details can be found in the `repository <ttps: //github.com/openenergymonitor/EmonESP>` _
 
 Source code
-~~~~~~~~~~~~~
+~~~~~~~~~~~
 Firmware code and hardware documentation can be found in the `repository <https://github.com/iotlibre/ecoTherm>`_ 
 
 
