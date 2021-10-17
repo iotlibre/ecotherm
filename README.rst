@@ -15,6 +15,8 @@ ecoThermal can be installed on a DIN rail at a distance that allows communicatio
 To use ecoTherm, computer knowledge is not necessary, although all developments and hardware are made under free licenses, which allows the modification and improvement of functionalities.
 
 .. image :: ./images/ecotherm_board.png
+   :height: 100px
+   :width: 200 px
    :scale: 50 %
 
 Main features
