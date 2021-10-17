@@ -2,7 +2,7 @@ ecoTherm
 ==========
 ecoTherm is designed to measure the thermal energy of an installation that has one or more water circuits at different temperatures. This device can measure:
 
-* Temperature using 18b20 type probes
+* Temperature using 1-wire sensors
 * Flow through pulses provided by water meters
 * Analog values ​​for both voltage and current.
 
@@ -15,6 +15,7 @@ ecoThermal can be installed on a DIN rail at a distance that allows communicatio
 To use ecoTherm, computer knowledge is not necessary, although all developments and hardware are made under free licenses, which allows the modification and improvement of functionalities.
 
 .. image :: ./images/ecotherm_board.png
+   :scale: 50 %
 
 Main features
 ---------------------------
