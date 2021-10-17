@@ -58,10 +58,10 @@ The firmware that is loaded, by default, in the Arduino nano works correctly wit
 Configuration at installation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 At this point, the parameters of the destination server and the local Wi-Fi to which the device will be connected are defined. To this end, the first time the ESP 8266 12E is put into service it will create its own access point, its own WIFI network. By connecting to any address, through this access point, the ESP configuration page will appear. Bear in mind that once ESP is configured and connected to a WIFI network, the router will assign you a single IP address that will be necessary to access to change the configuration.
-The ESP configuration details can be found in the `repository <ttps: //github.com/openenergymonitor/EmonESP>` _
+The ESP configuration details can be found in the `repository <https: //github.com/openenergymonitor/EmonESP>` _
 
 Source code
 ~~~~~~~~~~~
-Firmware code and hardware documentation can be found in the `repository <https://github.com/iotlibre/ecoTherm>`_ 
+Firmware code and hardware documentation can be found in this `repository <https://github.com/iotlibre/ecoTherm>`_ 
 
 
