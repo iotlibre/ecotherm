@@ -1,13 +1,12 @@
 ecoTherm
 ==========
-
-.. image :: ./images/ecotherm_device.png
-
 ecoTherm is designed to measure the thermal energy of an installation that has one or more water circuits at different temperatures. This device can measure:
 
 * Temperature using 1-wire sensors
 * Flow through pulses provided by water meters
 * Analog values ​​for both voltage and current.
+
+.. image :: ./images/ecotherm_device.png
 
 For temperature measurement and analog values, samples are taken in one-second intervals. The value provided, each time the information is transmitted, is the average of all the samples taken.
 
