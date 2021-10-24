@@ -5,8 +5,8 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Lector de pulsos"
-Date "2018-02-14"
+Title "ecotherm_esp"
+Date "2021-10-24"
 Rev "1"
 Comp ""
 Comment1 ""
@@ -63,7 +63,7 @@ L ecoBeat_3-rescue:R R9
 U 1 1 5A858B7F
 P 8020 3820
 F 0 "R9" V 8100 3820 50  0000 C CNN
-F 1 "220" V 8020 3820 50  0000 C CNN
+F 1 "1k" V 8020 3820 50  0000 C CNN
 F 2 "Resistors_SMD:R_1206_HandSoldering" V 7950 3820 50  0001 C CNN
 F 3 "" H 8020 3820 50  0000 C CNN
 	1    8020 3820
@@ -74,7 +74,7 @@ L ecoBeat_3-rescue:R R8
 U 1 1 5A858C9F
 P 8020 3515
 F 0 "R8" V 8100 3515 50  0000 C CNN
-F 1 "220" V 8020 3515 50  0000 C CNN
+F 1 "1k" V 8020 3515 50  0000 C CNN
 F 2 "Resistors_SMD:R_1206_HandSoldering" V 7950 3515 50  0001 C CNN
 F 3 "" H 8020 3515 50  0000 C CNN
 	1    8020 3515

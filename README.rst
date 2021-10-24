@@ -1,5 +1,8 @@
 ecoTherm
 ==========
+
+.. image :: ./images/ecotherm_device.png
+
 ecoTherm is designed to measure the thermal energy of an installation that has one or more water circuits at different temperatures. This device can measure:
 
 * Temperature using 1-wire sensors
@@ -53,7 +56,9 @@ The default hardware is prepared for 8 analog inputs, 3 flow rates and 16 temper
 
 Arduino firmware
 ~~~~~~~~~~~~~~~~
-The firmware that is loaded, by default, in the Arduino nano works correctly with the hardware configuration, by default. In the case of changing the hardware, it is also necessary to change the firmware of the Arduino integrated in the PCB and that can be found in the source code
+The firmware that is loaded, by default, in the Arduino nano works correctly with the hardware configuration, by default. In the case of changing the hardware, it is also necessary to change the firmware of the Arduino integrated in the PCB and that can be found in the source code.
+
+An ESP 8266 has been used for the internet connection. The firmware used for its operation has been developed by Open Energy Monintor and can be found at https://github.com/openenergymonitor/EmonESP. 
 
 Configuration at installation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
