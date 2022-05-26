@@ -66,7 +66,10 @@ The ESP configuration details can be found in the `repository <https: //github.c
 
 Source code
 ~~~~~~~~~~~
+Copyright 2021 Endef Engineering SL.
+
 Firmware code and hardware documentation can be found in this `repository <https://github.com/iotlibre/ecoTherm>`_ 
+
 Tanto el hardware como el software de este rempositorio ha sido desarrollado por la empresa `Endef Engineering <https://endef.com/en/>`_ 
 
 Licence
