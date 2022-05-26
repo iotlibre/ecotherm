@@ -70,7 +70,7 @@ Firmware code and hardware documentation can be found in this `repository <https
 
 Licence
 -------
-* The hardware designs (schematics and CAD files) are licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+* The hardware designs are licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
 * The firmware is released under the GNU GPL V3 license The documentation is subject to GNU Free Documentation License
 * The hardware designs follow the terms of the OSHW (Open-source hardware) Statement of Principles 1.0.
 
