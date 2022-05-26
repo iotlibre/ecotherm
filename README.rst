@@ -68,4 +68,7 @@ Source code
 ~~~~~~~~~~~
 Firmware code and hardware documentation can be found in this `repository <https://github.com/iotlibre/ecoTherm>`_ 
 
+Licence
+-------
+All the code found in this repository is under the license: "GNU V3 General Public License" so the conditions of its use are those included in this license
 
