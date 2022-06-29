@@ -82,6 +82,8 @@ void setup() {
   if(DEBUG)Serial.println(F("Measurement start "));
   if(DEBUG)Serial.println(F("temperature, flow rate and analog values "));
 
+  //analogReference(INTERNAL);
+
   temperatureSensorsBegin();
 
   pcintCounterSetup();

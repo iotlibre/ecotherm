@@ -24,7 +24,7 @@ struct PinRead {
   const char* name;
   uint16_t scale;
   uint32_t value;
-  uint16_t samples;
+  uint32_t samples;
   
   
 // private:
