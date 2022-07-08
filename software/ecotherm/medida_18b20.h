@@ -40,7 +40,7 @@ uint8_t sensorsNumM[oneWireCount]={};
 uint8_t addressM[oneWireCount][6][8]={};
 
 // sum of the temperature values sampled
-uint32_t tempValueM[oneWireCount][6];
+int32_t tempValueM[oneWireCount][6];
 uint16_t tempSamplesM[oneWireCount][6];
 
 uint8_t busR = 0; // bus Routine
